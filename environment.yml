@@ -1,0 +1,14 @@
+name: efsa_cs1
+channels:
+  - defaults
+dependencies:
+  - xgboost
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - ca-certificates
+  - certifi
+  - openssl
+  - nltk
+  - gensim
+prefix: /home/gjb/miniconda3/envs/efsa_cs1
